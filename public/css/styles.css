@@ -1,6 +1,11 @@
 html {
   background-color: #F3EFEF;
-  background-image: -webkit-linear-gradient(180deg, #0F8997 50%, #F3EFEF 50%);
+  
+  background-image: linear-gradient(to right , #4BC6B9, #F3EFEF);
+  
+
+
+  
   min-height: 1000px;
   font-family: 'Tektur', sans-serif;
 }
@@ -17,6 +22,9 @@ h1 {
   background: #FFF;
   border-radius: 8px;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  background-image: linear-gradient(to right , #4BC6B9, #F3EFEF);
+
+
 }
 
 .rotating-box {
